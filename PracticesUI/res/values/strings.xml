@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticesUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="view1">レイアウトで設定したURL:http://www.shoeisha.co.jp/</string>
+    <string name="view2">TextView</string>
+
+</resources>
